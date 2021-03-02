@@ -20,4 +20,4 @@
 Все картинки кроме одной были загружены на сайт через <img src>, одна картинка через backgroung-image.
 
 
-
+Та самая ссылочка: https://alexdor01.github.io/russian-travel/
