@@ -19,7 +19,6 @@
 }
 @media screen and (max-width: 767px) {
     .cover__link {
-        min-height: 200px;
-        max-height: 200px;
+        min-height: 200px;  
     }
 }
